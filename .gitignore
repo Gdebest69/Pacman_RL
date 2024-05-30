@@ -1,0 +1,9 @@
+*.iml
+*.xml
+*.json
+*.pyc
+/model.png
+/shelf/
+/workspace.xml
+/lol/
+/old_stuff/
